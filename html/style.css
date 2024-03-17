@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Dekko&family=Madimi+One&family=Noto+Sans+Gurmukhi:wght@100..900&family=Noto+Sans+Samaritan&display=swap');
+*{
+        
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+    background-color: #4a78ec;
+}
+header {
+     padding: 84px;
+     border-bottom: 5px solid #0c076d;
+     background-color: rgba(16, 8, 255, 0.49);
+
+}
+header div {
+      text-align: center;
+}
+header div a {
+     color:bisque;
+     font-size: 21px;
+     line-height:  30px ;
+     margin: 0 18px; /* o 1- é a distancia vertical, e o 2- é a diistandancia horizontal*//*o p- serve para criar um paragrafo. */
+     text-decoration: none;
+     transition: 750ms;
+     font-family: "Madimi One", sans-serif;
+
+
+}
+header div a:hover {
+color:#960772;
+transition: color 750ms;
+}

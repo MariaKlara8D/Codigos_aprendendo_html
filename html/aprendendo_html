@@ -3,5 +3,5 @@
 - .link = acesso a div   
 - <a> = acesso a links
 -parei na parte da "header"
-<style> css(ele dáum estilo para o site, deixa ele bonito, como se fosse o adjetivo- que qualifica o substantivo
-dentro desta tag, não se encrev em html, é como se ele retorna-se o 'body' e desse ,por exemplo,cores...o qualificando)    </style>
+-<style> css(ele dá um estilo para o site, deixa ele bonito, como se fosse o adjetivo- que qualifica o substantivo
+dentro desta tag, não se encrev em html, é como se ele retorna-se o 'body' e desse ,por exemplo,cores...o qualificando)   </style>
