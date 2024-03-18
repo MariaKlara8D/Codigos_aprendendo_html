@@ -19,18 +19,19 @@ header div {
 }
 header div a {
      color:rgb(228, 208, 27);
-     font-size: 21px;
+     font-size: 60px;
      line-height:  30px ;
      margin: 0 18px; /* o 1- é a distancia vertical, e o 2- é a diistandancia horizontal*//*o p- serve para criar um paragrafo. */
      text-decoration: none;
-     transition: 750ms;
+     transition: 1s;
      font-family: "Madimi One", sans-serif;
 
 
 }
 header div a:hover {
 color:#079653;
-transition: color 750ms;
+transition: 1s;
+font-size: 80px;
 }
 #box {
     text-align : center;
@@ -57,5 +58,7 @@ transition: color 750ms;
      max-width: 500px;
      margin: 43px auto;
      font-size: 35px;
-     line-height:  32px ;   
+     line-height:  32px ; 
+     font-family:  "Madimi One", sans-serif;
+
 }
