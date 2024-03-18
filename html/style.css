@@ -6,19 +6,19 @@
   border: 0;
 }
 body {
-    background-color: #4a78ec;
+    background-color: #701d0f;
 }
 header {
      padding: 84px;
-     border-bottom: 5px solid #0c076d;
-     background-color: rgba(16, 8, 255, 0.49);
+     border-bottom: 4px solid #198bb8;
+     background-color: rgba(107, 61, 31, 0.664);
 
 }
 header div {
       text-align: center;
 }
 header div a {
-     color:bisque;
+     color:rgb(228, 208, 27);
      font-size: 21px;
      line-height:  30px ;
      margin: 0 18px; /* o 1- é a distancia vertical, e o 2- é a diistandancia horizontal*//*o p- serve para criar um paragrafo. */
@@ -29,6 +29,33 @@ header div a {
 
 }
 header div a:hover {
-color:#960772;
+color:#079653;
 transition: color 750ms;
+}
+#box {
+    text-align : center;
+    padding: 32px;
+}
+#box img {
+     border-radius: 50%;
+     border: 5px solid #079653;
+     margin-bottom: 20px;
+}
+#box h1{
+     font-size: 60px;
+     line-height:  32px ; 
+     font-weight: bold;
+}
+#box h2{
+     font-size: 40px;
+     line-height:  32px ; 
+     font-weight: bold;
+     margin-top: 8px;
+     opacity:0.5;
+} 
+#box p {
+     max-width: 500px;
+     margin: 43px auto;
+     font-size: 35px;
+     line-height:  32px ;   
 }
